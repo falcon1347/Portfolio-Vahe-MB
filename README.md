@@ -1,5 +1,5 @@
 # Portfolio-Vahe-MB
-# Portfolio – Vahe Musaderyan Bazeyan
+
 
 Welcome to my portfolio repository.
 
